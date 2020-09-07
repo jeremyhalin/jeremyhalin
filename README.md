@@ -13,7 +13,7 @@ My name is Jérémy Halin. Welcome on my GitHub profile 😊
 ### 🚧 Current projects
 
 - 🍿 I'm having a lot of fun working on [Memorable](https://play.google.com/store/apps/details?id=com.memorablequotes), a mobile game for fans of cult quotes from movies or TV shows
-- 🕶️ A minimal Ghost theme for developers [Dark](https://github.com/jeremyhalin/noir)
+- 🕶️ [Noir](https://github.com/jeremyhalin/noir) - a minimal Ghost theme for developers
 
 _A little thought to all my never finished projects..._
 
